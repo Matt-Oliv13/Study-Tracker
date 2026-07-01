@@ -1,11 +1,11 @@
-===========================================================
-                    STUDY TRACKER
-===========================================================
-Um organizador de estudos simples, feito em Python. 
-Este programa permite que você:
+# Study Tracker
+Um organizador de estudos simples feito em Python.
+---
 
-1. Adicione matérias e tópicos
-2. Marque tópicos como concluídos
-3. Exclua matérias ou tópicos
-4. Visualize o progresso de estudo e,
-5. Salve/carregue seus dados através de arquivos de texto.
+## ✨ Funcionalidades
+- Adicionar matérias e tópicos
+- Marcar tópicos como concluídos
+- Excluir matérias ou tópicos
+- Visualizar lista de estudos
+- Acompanhar progresso (% de conclusão)
+- Salvar e carregar dados em arquivo de texto
