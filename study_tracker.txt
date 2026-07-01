@@ -1,0 +1,145 @@
+matematica
+funcoes:Finalizado
+graficos:Incompleto
+mmc e mdc:Finalizado
+equacoes do 1 grau:Incompleto
+equacoes do 2 grau:Finalizado
+porcentagem:Incompleto
+juros simples:Finalizado
+juros compostos:Incompleto
+probabilidade:Finalizado
+analise combinatoria:Incompleto
+portugues
+interpretacao de texto:Finalizado
+gramatica:Incompleto
+ortografia:Finalizado
+pontuacao:Incompleto
+concordancia verbal:Finalizado
+concordancia nominal:Finalizado
+regencia verbal:Finalizado
+regencia nominal:Incompleto
+coerencia e coesao:Finalizado
+figuras de linguagem:Finalizado
+logica de programacao
+variaveis:Finalizado
+tipos de dados:Incompleto
+estruturas condicionais:Finalizado
+lacos de repeticao:Incompleto
+vetores:Finalizado
+matrizes:Incompleto
+funcoes:Finalizado
+algoritmos:Incompleto
+fluxogramas:Finalizado
+debugging:Incompleto
+informatica
+sistema operacional:Finalizado
+windows:Incompleto
+linux:Finalizado
+internet:Incompleto
+navegadores:Finalizado
+seguranca digital:Finalizado
+virus e malware:Finalizado
+backup:Incompleto
+armazenamento em nuvem:Finalizado
+pacote office:Incompleto
+conhecimentos bancarios
+sistema financeiro nacional:Finalizado
+banco central:Incompleto
+bancos comerciais:Finalizado
+bancos multiplos:Incompleto
+cooperativas de credito:Finalizado
+caixa economica federal:Finalizado
+operacoes de credito:Finalizado
+taxas de juros:Finalizado
+inflacao:Finalizado
+produtos bancarios:Incompleto
+atualidades
+economia global:Finalizado
+politica nacional:Incompleto
+meio ambiente:Finalizado
+tecnologia:Incompleto
+saude publica:Finalizado
+educacao:Incompleto
+conflitos internacionais:Finalizado
+mercado de trabalho:Incompleto
+energia e sustentabilidade:Finalizado
+historia do brasil
+brasil colonia:Finalizado
+brasil imperio:Incompleto
+republica velha:Finalizado
+era vargas:Incompleto
+ditadura militar:Finalizado
+redemocratizacao:Incompleto
+movimentos sociais:Finalizado
+constituintes:Incompleto
+economia historica:Finalizado
+geografia do brasil
+regioes do brasil:Finalizado
+clima:Incompleto
+relevo:Finalizado
+hidrografia:Finalizado
+biomas:Finalizado
+urbanizacao:Finalizado
+populacao:Finalizado
+agricultura:Incompleto
+industria:Finalizado
+direito constitucional
+constituicao federal:Finalizado
+direitos fundamentais:Incompleto
+organizacao do estado:Finalizado
+poder executivo:Incompleto
+poder legislativo:Finalizado
+poder judiciario:Incompleto
+controle de constitucionalidade:Finalizado
+remedios constitucionais:Incompleto
+principios fundamentais:Finalizado
+direito administrativo
+atos administrativos:Finalizado
+poderes administrativos:Finalizado
+administracao publica:Finalizado
+licitacoes:Incompleto
+contratos administrativos:Finalizado
+responsabilidade civil do estado:Incompleto
+servicos publicos:Finalizado
+agentes publicos:Incompleto
+controle da administracao:Finalizado
+seguranca da informacao
+confidencialidade:Finalizado
+integridade:Incompleto
+disponibilidade:Finalizado
+criptografia:Finalizado
+autenticacao:Finalizado
+firewall:Incompleto
+malware:Finalizado
+phishing:Incompleto
+backup:Finalizado
+matematica financeira
+juros simples:Finalizado
+juros compostos:Incompleto
+taxa de juros:Incompleto
+desconto simples:Incompleto
+desconto composto:Incompleto
+fluxo de caixa:Incompleto
+valor presente:Incompleto
+valor futuro:Incompleto
+sistemas de amortizacao:Incompleto
+estatistica
+media:Incompleto
+mediana:Incompleto
+moda:Incompleto
+variancia:Incompleto
+desvio padrao:Finalizado
+probabilidade:Incompleto
+distribuicao de frequencia:Finalizado
+amostragem:Incompleto
+correlacao:Finalizado
+raciocinio logico
+proposicoes:Finalizado
+tabelas verdade:Incompleto
+conectivos logicos:Incompleto
+equivalencias logicas:Incompleto
+argumentacao:Finalizado
+sequencias logicas:Incompleto
+problemas logicos:Finalizado
+diagramas logicos:Incompleto
+validade de argumentos:Finalizado
